@@ -1,0 +1,7 @@
+First of all we create a table with some data that was already provided about countries in the us
+Then we copied from a csv to our pgadmin4 the data, that was cool
+With the imported data we did some queries and practice to get some specific data abou the countries
+Then we import another csv about supervisor salaries
+With this one we started to play with it, for example we did a temporal table and copy the data there
+We did more examples, like exporting an entire table with COPY, exporting only delected columns and exporting query results
+
